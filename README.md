@@ -120,8 +120,4 @@ SOFTWARE.
 **Yash Brahmankar**
 B.Tech Student | C Programming Enthusiast
 
-GitHub: *Add your GitHub profile link here*
-
----
-
 ⭐ If you find this repository useful, feel free to star it and explore further improvements!
